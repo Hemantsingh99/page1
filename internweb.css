@@ -1,0 +1,179 @@
+body{
+	text-align: center;
+    display: auto;
+}
+
+header{
+	background-color: grey;
+	padding: 10px;
+	box-shadow: 0 0 3px #0000;
+
+}
+
+header li{
+     display: inline;
+     padding-left: 45px;
+}
+
+header li a{
+	color: #333;
+	text-decoration: none;
+	padding: 13px;
+	
+}
+
+.rr{
+	float: left;
+    display: flex;
+
+}
+
+.nav{
+	justify-content: center;
+	display: center;
+	float: right;
+    padding:10px;
+}
+form{
+    align-items: center;
+    justify-content: center;
+    display: center;
+    padding-left:40%;
+    padding-right: 40%;
+    max-height: 600px;
+    border-style: double;
+    border-right: 60%;
+    border-left: 60%;
+
+}
+.yy{
+	float: none;
+	justify-content: center;
+	margin: auto;
+}
+
+.aa{
+	justify-content: center;
+	display: center;
+    max-height: 600px;
+    background-color: brown;
+}
+
+.ii{
+    width: 33.33333%;
+    display: block;
+    float: left;
+    min-height: 1px;
+    vertical-align: text-top;
+    padding: 0 12px;
+    width: 16.6666666667%;
+    zoom: 1;
+    
+}
+
+.nn{
+	width: 33.33333%;
+    display: block;
+    float: left;
+    min-height: 1px;
+    vertical-align: text-top;
+    padding: 0 12px;
+    width: 16.6666666667%;
+    zoom: 1;
+
+
+}
+
+.kk{
+		width: 33.33333%;
+    display: block;
+    float: left;
+    min-height: 1px;
+    vertical-align: text-top;
+    padding: 0 12px;
+    width: 16.6666666667%;
+    zoom: 1;
+
+}
+
+.vv{	width: 33.33333%;
+    display: block;
+    float: left;
+    min-height: 1px;
+    vertical-align: text-top;
+    padding: 0 12px;
+    width: 16.6666666667%;
+    zoom: 1;
+
+}
+
+.cc{	width: 33.33333%;
+    display: block;
+    float: left;
+    min-height: 1px;
+    vertical-align: text-top;
+    padding: 0 12px;
+    width: 16.6666666667%;
+    zoom: 1;
+
+}
+
+.gg{
+	float: right;
+}
+
+.righttable{
+  
+  float: left;
+  width: 33.33333%;
+    display: block;
+    float: left;
+    min-height: 1px;
+    vertical-align: text-top;
+    padding: 0 12px;
+    width: 16.6666666667%;
+    zoom: 1;
+   max-height: 400px;
+  
+}
+
+
+.lefttable{
+
+width: 33.33333%;
+    display: block;
+    float: right;
+    min-height: 1px;
+    vertical-align: text-top;
+    padding: 0 12px;
+    width: 16.6666666667%;
+    zoom: 1;
+    max-height: 400px;
+
+}
+
+.cc{
+
+	width: 33.33333%;
+    display: block;
+    float: right;
+    min-height: 1px;
+    vertical-align: text-top;
+    padding: 0 12px;
+    width: 16.6666666667%;
+    zoom: 1;
+
+}
+
+.pp{
+  max-height: 20px;
+  margin: 32%;
+  padding: 4%;
+  float: none;
+  justify-content: center;
+  display: inline;
+  color: #333;
+  text-decoration: none;
+  padding: 13px;
+}
+
